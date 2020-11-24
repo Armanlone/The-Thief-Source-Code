@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Rooms/Others/PreloadScene.unity
+    guid: 2cdff92f1e2c1614e8cf28d0ded9ab36
+  - enabled: 1
+    path: Assets/Rooms/Room1.unity
+    guid: 514ab78db4328914d8b6fd048a0b3ac3
+  - enabled: 1
+    path: Assets/Rooms/Room2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Rooms/Room3.unity
+    guid: f6eddb74577f1b549bfb0a744feaddc5
+  - enabled: 1
+    path: Assets/Rooms/Room4.unity
+    guid: d391946d372017a45947d81d40a50b29
+  - enabled: 1
+    path: Assets/Rooms/Room5.unity
+    guid: 033a212f00c227c4c9031bd3617444ed
+  - enabled: 1
+    path: Assets/Rooms/Room6.unity
+    guid: 0b3f2c27170ac524b91b4455d49e8b42
+  - enabled: 1
+    path: Assets/Rooms/Room7.unity
+    guid: cbd0add9fd7b79643b4f12ebddc74c0e
+  - enabled: 1
+    path: Assets/Rooms/Room8.unity
+    guid: ac63070446c1eba43bbd2501467f86ac
+  - enabled: 1
+    path: Assets/Rooms/Room9.unity
+    guid: 4be42b07d58b11c419322f9440536c6b
+  - enabled: 1
+    path: Assets/Rooms/Room10.unity
+    guid: a93b5dc7bcdcffd4da92e3d93f31d67d
+  - enabled: 1
+    path: Assets/Rooms/Room11.unity
+    guid: 0857fa643f5a54d4fb7cf6c4429b666a
+  - enabled: 1
+    path: Assets/Rooms/Room12.unity
+    guid: 6be4cefc08e3e524281a66e38271fa8e
+  - enabled: 1
+    path: Assets/Rooms/Room13.unity
+    guid: 47620e24e29c52b4780a2102e1761c89
+  - enabled: 1
+    path: Assets/Rooms/Room14.unity
+    guid: 024924add9ab7214daa2bb3c1077ef79
+  - enabled: 1
+    path: Assets/Rooms/Room15.unity
+    guid: 9a897510233f7b54e9f7cc01c9f01e73
+  - enabled: 1
+    path: Assets/Rooms/Room16.unity
+    guid: 7dd3c3bbadc2d4740aee765014785b80
+  - enabled: 1
+    path: Assets/Rooms/Room17.unity
+    guid: 6b502d8981ead39469a8ef0ef14e482b
+  - enabled: 1
+    path: Assets/Rooms/Room18.unity
+    guid: 78b41a158f2a421438fbadca9b2d7800
+  - enabled: 1
+    path: Assets/Rooms/Room19.unity
+    guid: bb21994c53c831142a7a47087cac735c
+  - enabled: 1
+    path: Assets/Rooms/Room20.unity
+    guid: 4688eb1661c3f7e45bbee42237c4f5d2
+  - enabled: 1
+    path: Assets/Rooms/Others/MenuScene.unity
+    guid: 4a7bf6b14c8a69a4c9687bfd9c6a578c
+  - enabled: 1
+    path: Assets/Rooms/Others/CreditsScene.unity
+    guid: cde7ad9eebdc7ed47b5f0cff680df90b
+  m_configObjects: {}

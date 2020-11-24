@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Jump Through Platform
+  - Trap
+  - Door
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Platforms
+  - Traps
+  - Doors
+  - Coins
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4039354085
+    locked: 0
+  - name: Midground
+    uniqueID: 1277203903
+    locked: 0
+  - name: Player
+    uniqueID: 641151825
+    locked: 0
+  - name: Particles
+    uniqueID: 2411228949
+    locked: 0
+  - name: Foreground
+    uniqueID: 106769733
+    locked: 0
