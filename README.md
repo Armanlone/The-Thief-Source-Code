@@ -12,3 +12,5 @@ A remake of the Community Game Jam submission.
     o Loot all the collectable treasures inside.
     
 This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+Credit is necessary if you want to use this project in your personal/commercial works.
