@@ -13,6 +13,9 @@ A remake of the Community Game Jam submission.
     o Sneak into the dungeon filled with hidden and fake traps.
     o Loot all the collectable treasures inside.
     
+# o Codes:
+ This game utilizes "Singleton Pattern" in each gameObject's behaviour inside the scenes. Singletons are mostly used for sounds, game logics, level loadings, UIs, and other behaviours. But some gameObjects has independent logics that only applicable to them, like moving the player. Singleton Pattern was used to minimize the creation of new classes on each gameObject. And to have a clear programming architecture.
+
 # o Credits:
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
