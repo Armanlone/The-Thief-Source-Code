@@ -21,7 +21,7 @@ Meaning:
 
     o Feel free to change whatever you like in this game project including the codes, sounds, etc.
     o If you ever used my game project, credits isn't necessary but greatly appreciated.
-    o You can credit me as Armanlone or Armanlone Main, or @armanlone_main
+    o You can credit me as Armanlone or @armanlone_main
     
 You can also contact me through Twitter: @armanlone_main for queries.
 
