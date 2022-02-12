@@ -16,11 +16,10 @@ A remake of the Community Game Jam submission.
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
 Meaning:
-
-- Feel free to change whatever you want in this game project including the codes, art, etc.
-- Please don't use it in or for NFT purposes. 
-- If you ever used this source code, credit isn't necessary but greatly appreciated.
-- You can credit me as Armanlone or @armanlone_main.
-- You can also contact me through Twitter: @armanlone_main for queries.
+- Except NFT, you can use this source code for your game development, education, commercial (with modification and credit) or any field in particular.
+- Feel free to change whatever you want in this source code including the scripts, etc.
+- If you used some of the old assets, please credit their original creators. You can find them inside the game folder available in itch.io, link in the "Summary" section.
+- For non-commercial, you can also credit me as Armanlone inside your game's Credit Section, in your webpage, or in a note accompanying the game. It is not necessary, but greatly appreciated!
+- For queries, you can always contact me through my Twitter: @armanlone_main 
 
 Thank you for downloading this source code.
