@@ -17,7 +17,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 Meaning:
 
-- Feel free to change whatever you want in this game project including the codes, sounds, etc.
+- Feel free to change whatever you want in this game project including the codes, art, etc.
 - Please don't use it in or for NFT purposes. 
 - If you ever used this source code, credit isn't necessary but greatly appreciated.
 - You can credit me as Armanlone or @armanlone_main.
