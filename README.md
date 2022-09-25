@@ -1,6 +1,6 @@
 # The Thief
 
-# About:
+## About:
  Story revolves around the thief trapped in a dungeon looting for coins.
 
 Explore your way and unravel the lies deep inside the dungeon.
@@ -9,10 +9,10 @@ Inspired by the game Total Party Kill of AdventureIslands.
 
 A remake of the Community Game Jam submission.
     
-# Codes:
+## Codes:
  Coding pattern used is "Singleton Pattern".
 
-# Credit:
+## Credit:
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
 Meaning:
